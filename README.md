@@ -11,10 +11,10 @@ wrongPinTest(bankAPI)
 wrongAccountTest(bankAPI)
 outOfBalanceTest(bankAPI)
 ```
++ To clone the project, type in terminal: git clone https://github.com/qyangaa/Arky_ATMController.git
++ To see the behavior of individual tests, please uncomment the tests in main section
 
-+ To see the behavior of individual test, please uncomment the tests in main section
-
-+ Inputs to bankAPI (`card, pin, accounts`) is set in main section, they can be changed to do different tests.
++ Inputs to bankAPI (`card, pin, accounts`) are set in main section, they can be changed to do different tests.
 
 + You can also write custom tests following API provided by the ATMController:
 
